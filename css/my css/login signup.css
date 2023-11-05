@@ -190,3 +190,9 @@ a {
 .foot-lnk {
     text-align: center;
 }
+.foot-lnk label:hover{
+    color:greenyellow;
+}
+.foot-lnk a:hover{
+    color:greenyellow
+}
